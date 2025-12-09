@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clint Michael Dmello and I'm a Software Engineer from Long Beach, CA</h2>
+<h2 align="left">Hi 👋! My name is Clint Michael Dmello and I'm a Software Engineer from San Jose, CA</h2>
 
 ###
 
