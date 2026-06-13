@@ -1,151 +1,176 @@
-<h2 align="left">Hi 👋! My name is Clint Michael Dmello and I'm a Software Engineer from San Jose, CA</h2>
+````md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Clint%20Michael%20Dmello&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20from%20San%20Jose,%20CA%20%E2%9A%A1%20Full-Stack%20%7C%20Cloud%20%7C%20AI%20Builder&descSize=18&descAlignY=55" />
 
-###
+<p align="center">
+  <img src="./assets/logo-loader.gif" width="220" alt="Clint Michael Dmello Logo Animation" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clintdmello12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintdmello12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">
+  <span style="color:#ffffff;">Hi 👋, I'm Clint Michael Dmello</span>
+</h2>
 
-###
+<h3 align="center">
+  <span style="color:#00FFFF;">Software Engineer • Full-Stack Developer • Cloud Enthusiast • AI Explorer</span>
+</h3>
 
-<p align="left">PROGRAMMING LANGUAGES</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<p align="left">FRONTEND DEVELOPMENT</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<p align="left">BACKEND DEVELOPMENT</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
-<p align="left">Devops</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<p align="left">Cloud Computing</p>
-
-###
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-</div>
-
-###
-
-<p align="left">Database</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-</div>
-
-###
-
-<p align="left">Machine Learning</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-</div>
-
-###
-
-<p align="left">Social</p>
-
-###
-
-<div align="left">
+<p align="center">
+  <a href="https://clintdmello.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
   <a href="https://www.linkedin.com/in/clint-michael-d/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="clintdmello12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=clintdmello12@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  <a href="mailto:clintdmello12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=clintdmello12&style=for-the-badge&color=00FFFF" />
+</p>
 
-###
+---
 
-<br clear="both">
+## 🧑‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/clintdmello12/clintdmello12/output/snake.svg" alt="Snake animation" />
+```txt
+> Building scalable software with clean code, strong architecture, and a product mindset.
+> I enjoy solving backend challenges, creating smooth user experiences, and exploring cloud + AI systems.
+````
 
-###
+* 🚀 Software Engineer based in **San Jose, CA**
+* 💻 Experienced in **Full-Stack Development, REST APIs, Cloud, Databases, and DevOps**
+* 🧠 Interested in **AI, Machine Learning, Distributed Systems, and Scalable Backend Design**
+* 🌐 Portfolio: **https://clintdmello.netlify.app/**
+* ⚡ Motto: **Build fast. Debug smarter. Keep improving.**
+
+---
+
+## 🛠️ Tech Playground
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,django" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,github" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+</p>
+
+### 🤖 Machine Learning & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,opencv" />
+</p>
+
+---
+
+## ⚡ What I Like Building
+
+<table>
+  <tr>
+    <td>🧩 Full-Stack Apps</td>
+    <td>Modern user interfaces with strong backend foundations</td>
+  </tr>
+  <tr>
+    <td>🔌 REST APIs</td>
+    <td>Clean, secure, scalable services for real-world products</td>
+  </tr>
+  <tr>
+    <td>☁️ Cloud Systems</td>
+    <td>Deployments, containers, automation, and cloud-native workflows</td>
+  </tr>
+  <tr>
+    <td>📊 Data + AI Tools</td>
+    <td>Dashboards, ML models, analytics, and automation experiments</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/clintdmello12/count.svg?"  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=clintdmello12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clintdmello12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
+
 </div>
 
-###
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=clintdmello12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/clintdmello12/clintdmello12/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🧠 Current Focus
+
+```yaml
+currently_building:
+  - scalable web applications
+  - backend systems
+  - cloud-native deployments
+  - AI-powered developer tools
+
+learning_more_about:
+  - distributed systems
+  - system design
+  - machine learning engineering
+  - production-grade DevOps
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://clintdmello.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/clint-michael-d/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:clintdmello12@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Code. Create. Debug. Repeat. ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
+```
