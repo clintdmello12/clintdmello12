@@ -1,4 +1,3 @@
-````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Clint%20Michael%20Dmello&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20from%20San%20Jose,%20CA%20%E2%9A%A1%20Full-Stack%20%7C%20Cloud%20%7C%20AI%20Builder&descSize=18&descAlignY=55" />
 
 <p align="center">
